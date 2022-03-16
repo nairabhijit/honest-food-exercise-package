@@ -1,0 +1,11 @@
+{
+  "name": "honest-food-exercise-package",
+  "version": "1.0.0",
+  "description": "Honest Food Docker solution for frontend and backend exercise",
+  "main": "docker-compose.yml",
+  "scripts": {
+    "start": "docker-compose up --build"
+  },
+  "author": "Abhijit Nair",
+  "license": "ISC"
+}
