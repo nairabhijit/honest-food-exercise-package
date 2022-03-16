@@ -21,3 +21,7 @@ This will build the docker image and create a docker container for the entire pr
 > It may take some time for the docker to build client and server image
 
 > You can go without docker too, You can clone client and server project from their respective repositories and run each project independently. Check below the independent client and server repositories
+
+[Frontend repository link](https://github.com/nairabhijit/honest-food-frontend-exercise.git)
+
+[Backend repository link](https://github.com/nairabhijit/honest-food-backend-exercise)
